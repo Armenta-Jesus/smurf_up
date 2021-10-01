@@ -1,6 +1,6 @@
 Cuestionario numero 1.
 1. ¿En tus palabras, ¿Qué es internet? 
-R=
+R= El internet es una red mundial que ofrece acceso y comparte información a través de un lenguaje común de una manera sencilla
 2. Describe los medios físicos y de programación de ondas por los que se transmite la información en internet.
 R=
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
