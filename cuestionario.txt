@@ -2,15 +2,15 @@ Cuestionario numero 1.
 1. ¿En tus palabras, ¿Qué es internet? 
 R= El internet es una red mundial que ofrece acceso y comparte información a través de un lenguaje común de una manera sencilla
 2. Describe los medios físicos y de programación de ondas por los que se transmite la información en internet.
-R=
+R= Una señal de radio se transmite por el espacio en forma de ondas electromagnéticas. El receptor consiste en una antena que capta la ondas y las “descodifica”, es decir, vuelve a transformarlas en señal eléctrica para recuperar la información original (en este caso, el audio).
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R=
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-R=
+R= La cancion de spotify por asi decirlo va como por rieles o carriles en los cuales se pasan millones de datos de información, este va de poco en poco, hay veces que toman caminos diferentes con tiempos de llegada diferentes pero siempre va a llegar la información. Es asi como la información llega a tu telefono, mediante carriles que estan en la interweb.
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML.
 R=
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-R=
+R= 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R=
 8. ¿Cómo funciona la búsqueda de google?
