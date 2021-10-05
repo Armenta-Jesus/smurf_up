@@ -1,9 +1,15 @@
 Cuestionario numero 1.
 Jesús David Armenta Cota y Manuel Calzada Ortega. 4F
+
 1. ¿En tus palabras, ¿Qué es internet? 
-R= El internet es una red mundial que ofrece acceso y comparte información a través de un lenguaje común de una manera sencilla.
+R= El internet es una red mundial que ofrece acceso y comparte información a través de un lenguaje común de una manera sencilla. <!-- ---- 5oct | @SRTP: ok ----  -->
 2. Describe los medios físicos y de programación de ondas por los que se transmite la información en internet.
-R= Una señal de radio se transmite por el espacio en forma de ondas electromagnéticas. El receptor consiste en una antena que capta la ondas y las “descodifica”, es decir, vuelve a transformarlas en señal eléctrica para recuperar la información original (en este caso, el audio).
+R= Una señal de radio se transmite por el espacio en forma de ondas electromagnéticas. El receptor consiste en una antena que capta la ondas y las “descodifica”, es decir, vuelve a transformarlas en señal eléctrica para recuperar la información original (en este caso, el audio). 
+
+
+<!-- ---- 5oct | @SRTP: respuesta plagiada de: https://www.lavanguardia.com/vida/junior-report/20190214/46410737753/radio-como-funciona-marconi-campo-electromagnetico-ciencia.html todo el trabajo se invalida. ----  -->
+
+
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R= Todo dispositivo tiene una dirección única y la dirección es un número esto se usa con ayuda de la IP (Internet Protocol), visitando un sitio web lo que hace nuestra computadora es buscar la IP de la otra computadora y pedirle información. Un sistema llamado DNS (Domain Name System) busca los nombres principales y obtener la dirección IP que es usada para conectarse a tu computadora el destino del internet.
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
